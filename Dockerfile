@@ -1,4 +1,4 @@
-FROM nginx:alpine
+FROM mh416ghx.mirror.aliyuncs.com/library/nginx:alpine
 
 ENV ARIA_NG_VERSION "1.1.5"
 
